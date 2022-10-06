@@ -32,7 +32,7 @@ In PaddleRight (Negative button - down and positive buttom - up) and paddleLeft(
  After completing, to move the ball, in the ball inspector give the value for speed
  
  ## Program:
- ## GAME MANGER.cs:
+ ## GAME MANAGER.cs:
  ```
  using System.Collections;
 using System.Collections.Generic;
