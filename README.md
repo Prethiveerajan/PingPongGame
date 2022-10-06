@@ -1,10 +1,10 @@
-# PingPongGame
+# PINGPPONGGAME
 
-## Aim:
+## AIM:
 
 
 
-## Algorithm:
+## ALGORITHM:
 ### Step 1:
 Create a new scene and save. Then right click hierarchy and click ->create empty (name as Game manager).
 ### Step 2:
@@ -31,7 +31,7 @@ Edit-> Project settings-> Input -> Axes (2) -> Horizontal (name as PaddleLeft) a
 In PaddleRight (Negative button - down and positive buttom - up) and paddleLeft(Negative button - s and positive buttom - w)
  After completing, to move the ball, in the ball inspector give the value for speed
  
- ## Program:
+ ## PROGRAMM:
  ## GAME MANAGER.CS:
  ```
  using System.Collections;
@@ -186,7 +186,12 @@ public class Paddle : MonoBehaviour
 ```
 
  
- ## Output:
- 
- ## Result:
+ ## OUTPUT:
 
+ ## INTERFACE:
+ ![output](o1.png)
+ ## GAME OVER:
+ ![output](o2.png)
+ 
+ ## RESULT:
+Thus, a ping pong game was developed using C# program in unity.
