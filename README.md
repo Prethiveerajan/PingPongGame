@@ -1,4 +1,4 @@
-# PINGPONGGAME
+# PING PONG GAME
 
 ## AIM:
 
